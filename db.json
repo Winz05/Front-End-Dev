@@ -393,74 +393,7 @@
       "email": "aswin@gmail.com",
       "password": "abc321",
       "id": 1
-    },
-    {
-      "username": "ojan",
-      "email": "ojan@gmail.com",
-      "password": "cbe892",
-      "id": 2
-    },
-    {
-      "username": "ojan",
-      "email": "sjfsjfs@gmail.com",
-      "password": "mknjhkjkh",
-      "id": 3
-    },
-    {
-      "username": "nathan",
-      "email": "nathan@gmail.com",
-      "password": "asdhajka",
-      "id": 4
-    },
-    {
-      "username": "edwin",
-      "email": "edwin@gmail.com",
-      "password": "ajajdandjak23441",
-      "id": 5
-    },
-    {
-      "username": "gg",
-      "email": "gg@gmail.com",
-      "password": "gg45678baga",
-      "id": 6
-    }
-  ],
-  "cart": [
-    {
-      "idProduct": 1,
-      "indexSize": 0,
-      "indexTopping": 0,
-      "indexSugar": 0,
-      "quantity": 3,
-      "userId": 1,
-      "id": 1
-    },
-    {
-      "idProduct": 7,
-      "idSize": 2,
-      "idTopping": 1,
-      "idSugar": 1,
-      "quantity": 1,
-      "userId": null,
-      "id": 3
-    },
-    {
-      "idProduct": 10,
-      "idSize": 0,
-      "idTopping": 0,
-      "idSugar": null,
-      "quantity": 1,
-      "userId": 11,
-      "id": 4
-    },
-    {
-      "idProduct": 5,
-      "idSize": 1,
-      "idTopping": 3,
-      "idSugar": 1,
-      "quantity": 1,
-      "userId": 1,
-      "id": 5
     }
   ]
+  
 }
